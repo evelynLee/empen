@@ -3137,7 +3137,7 @@ hero-btn {
 
 /* line 965, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .section-tittle h2 {
-  font-size: 50px;
+  font-size: 30px;
   display: block;
   color: #092c3f;
   font-weight: 900;
@@ -3811,7 +3811,7 @@ hero-btn {
 
 /* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
 .slider-area .hero__caption h1 {
-  font-size: 85px;
+  font-size: 75px;
   font-weight: 800;
   margin-bottom: 14px;
   color: #fff;
@@ -3824,7 +3824,7 @@ hero-btn {
 
   /* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
   .slider-area .hero__caption h1 {
-    font-size: 65px;
+    font-size: 55px;
   }
 }
 
@@ -4620,8 +4620,8 @@ hero-btn {
 .services-area .single-services .services-caption span::before {
   position: absolute;
   content: "";
-  width: 15px;
-  height: 2px;
+  width: 18px;
+  height: 5px;
   top: 0;
   left: 0;
   top: 50%;
