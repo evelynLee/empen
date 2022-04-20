@@ -133,6 +133,17 @@
   width: 220px;
 }
 
+.box-service .box-img {
+  margin: 0 auto 1rem;
+}
+
+.box-img {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
 /*--
     - Overlay
 ------------------------------------------*/
@@ -3716,12 +3727,12 @@ hero-btn {
 }
 
 .slider-areaService {
-  background-image: url(../img/hero/h2_it.jpg);
+  background-image: url(../img/hero/h2_spec.jpg);
   background-position: center;
 }
 
 .slider-areaTeam {
-  background-image: url(../img/hero/h2_teams.jpg);
+  background-image: url(../img/hero/h2_news.jpg);
   background-position: center;
 }
 
@@ -3731,7 +3742,7 @@ hero-btn {
 }
 
 .slider-areaSupport {
-  background-image: url(../img/hero/h2_support.jpg);
+  background-image: url(../img/hero/h2_exhibit.jpg);
   background-position: center;
 }
 
